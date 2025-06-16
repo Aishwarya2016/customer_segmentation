@@ -124,5 +124,3 @@ NumPy – For numerical computations.
 Scikit-learn – For implementing machine learning models (K-Means, Logistic Regression, Linear Regression).
 Matplotlib & Seaborn – For data visualization and exploratory data analysis (EDA).
 
-**Data Source**
-Kaggle – The dataset was collected from Kaggle
